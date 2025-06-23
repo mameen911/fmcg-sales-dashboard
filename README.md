@@ -1,6 +1,6 @@
 # FMCG Sales Dashboard
 
-📊 **FMCG Sales Comparison Dashboard** is a Streamlit app that extracts and analyzes FMCG product sales data from PDF reports for June 2024 and June 2025. It provides interactive visualizations, detailed comparison tables, downloadable reports, and machine learning-based sales quantity predictions.
+📊 **FMCG Sales Comparison Dashboard** is a Streamlit app that extracts and analyzes FMCG product sales data from PDF reports. It provides interactive visualizations, detailed comparison tables, downloadable reports, and machine learning-based sales quantity predictions.
 
 ---
 
